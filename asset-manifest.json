@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React_Personal_Portfolio/static/css/main.834d4cb1.css",
+    "main.js": "/React_Personal_Portfolio/static/js/main.faeb6208.js",
+    "static/js/453.b21437c2.chunk.js": "/React_Personal_Portfolio/static/js/453.b21437c2.chunk.js",
+    "static/media/tender.png": "/React_Personal_Portfolio/static/media/tender.ae852fd138b5e8e1d9d4.png",
+    "static/media/jobhunt.png": "/React_Personal_Portfolio/static/media/jobhunt.720530e7208ed145c325.png",
+    "static/media/shishir.jpg": "/React_Personal_Portfolio/static/media/shishir.f9dd55a86df8673fbfac.jpg",
+    "static/media/portfolio.png": "/React_Personal_Portfolio/static/media/portfolio.3dff1974712b3e161ae1.png",
+    "static/media/Shishir-24feb.pdf": "/React_Personal_Portfolio/static/media/Shishir-24feb.e446f6225021377610c5.pdf",
+    "static/media/expense.png": "/React_Personal_Portfolio/static/media/expense.5ab1c29c5152061fb40d.png",
+    "index.html": "/React_Personal_Portfolio/index.html",
+    "main.834d4cb1.css.map": "/React_Personal_Portfolio/static/css/main.834d4cb1.css.map",
+    "main.faeb6208.js.map": "/React_Personal_Portfolio/static/js/main.faeb6208.js.map",
+    "453.b21437c2.chunk.js.map": "/React_Personal_Portfolio/static/js/453.b21437c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.834d4cb1.css",
+    "static/js/main.faeb6208.js"
+  ]
+}
