@@ -49,13 +49,13 @@ header{
 
     background: linear-gradient(var(--color-primary), transparent);
     width: 15rem;
-    height: 40rem;
+    height: 25rem;
     position: absolute;
     left: calc(50% - 7rem);
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
-    padding: 5rem 1.5rem 1,5rem 1.5rem;
+    
 }
 
 
@@ -110,8 +110,5 @@ header{
         display: none;
     }
 
-    .me > img{
-
-        margin-top: 2.5rem;
-    }
+    
 }
