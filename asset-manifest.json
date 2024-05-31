@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React_Personal_Portfolio/static/css/main.f90b1f99.css",
+    "main.css": "/React_Personal_Portfolio/static/css/main.67991fae.css",
     "main.js": "/React_Personal_Portfolio/static/js/main.3aec6328.js",
     "static/js/453.b21437c2.chunk.js": "/React_Personal_Portfolio/static/js/453.b21437c2.chunk.js",
     "static/media/tender.png": "/React_Personal_Portfolio/static/media/tender.ae852fd138b5e8e1d9d4.png",
@@ -10,12 +10,12 @@
     "static/media/Shishir-24feb.pdf": "/React_Personal_Portfolio/static/media/Shishir-24feb.e446f6225021377610c5.pdf",
     "static/media/expense.png": "/React_Personal_Portfolio/static/media/expense.5ab1c29c5152061fb40d.png",
     "index.html": "/React_Personal_Portfolio/index.html",
-    "main.f90b1f99.css.map": "/React_Personal_Portfolio/static/css/main.f90b1f99.css.map",
+    "main.67991fae.css.map": "/React_Personal_Portfolio/static/css/main.67991fae.css.map",
     "main.3aec6328.js.map": "/React_Personal_Portfolio/static/js/main.3aec6328.js.map",
     "453.b21437c2.chunk.js.map": "/React_Personal_Portfolio/static/js/453.b21437c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f90b1f99.css",
+    "static/css/main.67991fae.css",
     "static/js/main.3aec6328.js"
   ]
 }
