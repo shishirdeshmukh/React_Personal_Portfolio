@@ -13,7 +13,7 @@ import HeaderSocials from './HeaderSocials'
       <div className="container header__container">
         <h5>Hello , I'm</h5>
         <h1>Shishir Deshmukh</h1>
-        <h5 className="text-light">Software Engineering Undergraduate</h5>
+        <h5 className="text-light">Computer Science PostGraduate</h5>
       <CTA />
       <HeaderSocials />
       <div className="me">

@@ -44,8 +44,8 @@ const Myprojects = () => {
             <h3>My Portfolio(This website)</h3>
             <small className='text-light'>ReactJs</small>
             <div className="portfolio__item-cta">
-              <a href="" target="_blank" rel='noreferrer' className='btn'>Github</a>
-              <a href="" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
+              <a href="https://github.com/shishirdeshmukh/React_Personal_Portfolio" target="_blank" rel='noreferrer' className='btn'>Github</a>
+              <a href="https://shishirdeshmukh.github.io/React_Personal_Portfolio/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
             </div>
             
         </article>

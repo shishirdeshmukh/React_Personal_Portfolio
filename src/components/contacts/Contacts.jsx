@@ -2,19 +2,25 @@ import React from 'react'
 import './contacts.css'
 import {MdOutlineEmail} from 'react-icons/md'
 import { useRef } from 'react';
-// import emailjs from '@emailjs/browser';
+ import emailjs from '@emailjs/browser';
 
 const Contacts = () => {
 
   const form = useRef()
 
-  // const sendEmail = (e) => {
-  //   e.preventDefault();
+  const sendEmail = (e) => {
+    e.preventDefault();
 
-  //   emailjs.sendForm('service_kpzxgqz', 'template_kk9ipl8', form.current, 'uKELRhBOpArKOozDJ')
-  //   e.target.reset()
+
+    emailjs.sendForm('service_0us42uu', 'emplate_2knp8dm', form.current, '5L7KW13P3sCQKDls1')
+      .then((result) => {
+        console.log('Email sent successfully:', result.text);
+        e.target.reset();
+      }, (error) => {
+        console.error('Error sending email:', error.text);
+      });
     
-  // }
+  }
 
   return (
     <section id='contacts'>
